@@ -3,6 +3,9 @@
 **Description**
 This project uses the Adult (Census Income) dataset from sklearn.datasets to perform data analysis and visualization for predicting whether an individual's annual income exceeds $50,000. The dataset contains demographic attributes such as age, sex, education, occupation, and native country.
 
+**Purpose**
+The main objective of this project is to understand key factors that influence income levels and to prepare the dataset for machine learning models in future stages.
+
 **Technologies and Libraries Used**
 - Python
 - Pandas
@@ -39,4 +42,3 @@ This project uses the Adult (Census Income) dataset from sklearn.datasets to per
 - Distribution of education-num is shown using a density plot.
 - A scatter plot is created for age vs hours-per-week.
 - Class distributions are further analyzed by race and sex using count plots.
-
